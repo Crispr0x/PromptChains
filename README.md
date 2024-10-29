@@ -467,6 +467,40 @@ Define the main topic and learning objectives for [course subject]~Identify the 
 Analyze the following SaaS product and create a brief: ChatGPT Queue. Include key features, benefits, target audience, and industry~Based on the brief, list 5 key concepts or themes that should be represented in the logo~Generate a minimalist logo design for the SaaS product. Use only two colors and focus on a simple, memorable shape~Create a bold and modern logo design using gradients and a sans-serif font. Incorporate an abstract representation of the product's main feature~Design a playful logo with a mascot or character that represents the product's personality. Use a vibrant color palette~Develop a tech-focused logo design with a futuristic feel. Incorporate circuit-like patterns or digital elements~Create an elegant and professional logo design using a monogram or lettermark. Stick to a monochromatic color scheme~Generate a versatile logo that works well in both horizontal and vertical layouts. Focus on scalability and readability at different sizes
 ```
 
+### DYOR: Book Research and Evaluation Framework
+
+```
+I'm planning to purchase and read [TITLE] by [AUTOR]. Please conduct an in-depth research and examination of the book, covering the following assessment steps:
+
+Author Credibility: Research [AUTHOR]'s background, expertise, previous works, professional affiliations, qualifications, and any awards or recognition he has received.
+
+Publisher Reputation: Evaluate the reputation and track record of the publishing house, noting whether it's a major publisher or a specialized press.
+
+Publication Date: Identify when the book was published or last updated to assess the relevance and currency of the information.
+
+Content Evaluation: Provide a brief synopsis of the book, including key concepts and objectives. Highlight the key takeaways and implications of the book's findings.
+
+Target Audience: Describe the target audience, listing five characteristic traits.
+
+Professional Reviews: Summarize reviews from reputable sources such as Kirkus Reviews, Publishers Weekly, BookPage, and academic journals. Highlight overall assessments, notable praises, and criticisms.
+
+Reader Reviews: Analyze reviews from platforms like Goodreads, breaking it down into following blocks:  providing the overall goodreads's rating, readers' stance and sentiment on the book into 5 thesis by decreasing from the positive to negative 
+
+Awards and Accolades: List any awards the book has won or bestseller lists it has appeared on.
+
+Unique Perspective: Assess whether the book offers new insights or a fresh approach to the topic.
+
+Competitive Titles: Research similar books on the same topic, noting which might offer better context or alternatives.
+
+Unique Selling Points: Identify what sets this book apart from others in its category.
+
+Potential Criticisms or Controversies: Summarize any criticisms, controversies, or debates related to the book or its content.
+
+Potential Biases: Identify any potential biases in the author's perspective or methodology.
+
+Desired Outcome: Provide a comprehensive research synopsis, including references or citations where appropriate.
+```
+
 
 
 ## Contributing
